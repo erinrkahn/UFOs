@@ -4,7 +4,7 @@
 
 ### Purpose
 
-The "UFO Sightings" webpage gives users access to a dynamic table of UFO sightings, organized by sighting date, city, state, country, observed shape and additional sighting comments. Previous UFO sighting data is made avaialble through the webpage and there are 5 active filters that can be used to sort the data; date, city, state, country and observed shape. The filters can be cleared and used for additional searches. Overall, the webpage offers a streamlined view of the UFO sighting data and ability to quickly sort based on different criteria using the filters. 
+The "UFO Sightings" webpage gives users access to a dynamic table of UFO sightings, organized by sighting date, city, state, country, observed shape and additional sighting comments. Previous UFO sighting data is made available through the webpage and there are 5 active filters that can be used to sort the data; date, city, state, country and observed shape. The filters can be cleared and used for additional searches. Overall, the webpage offers a streamlined view of the UFO sighting data and ability to quickly sort based on different criteria using the filters. 
 
 ## Results
 
@@ -34,7 +34,7 @@ __Filter by State__
 >![filter_state](https://user-images.githubusercontent.com/77405273/115153232-b377ac80-a029-11eb-9355-2f7ad0e26c0f.png)
 - Users can filter by state using the 2 letter abbreviation. All sightings for that state will be returned. 
 
-__Filter by Coutry__
+__Filter by Country__
 >![filter_country](https://user-images.githubusercontent.com/77405273/115153237-b83c6080-a029-11eb-9af1-3d8ed37cfbfd.png)
 - Users can filter by the 2 letter country codes to sort for all sightings within one country.
 
@@ -51,7 +51,7 @@ __Sort with Multiple Filters__
 
 ## Summary
 
-While the webpage has increased functionailty with the added filters, users need to input values exactly as they appear in the dataset. This may lead to no results being returned, when in fact there are results matching their search criteria. Addtional improvements can be used to accept a wider range of inputs into the filters. 
+While the webpage has increased functionality with the added filters, users need to input values exactly as they appear in the dataset. This may lead to no results being returned, when in fact there are results matching their search criteria. Additional improvements can be used to accept a wider range of inputs into the filters. 
 
 ### Recommendations
 
