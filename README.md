@@ -51,9 +51,9 @@ __Sort with Multiple Filters__
 
 ## Summary
 
-###### Total Fare by City Type (Urban, Suburban, Rural)
->
+While the webpage has increased functionailty with the added filters, users need to input values exactly as they appear in the dataset. This may lead to no results being returned, when in fact there are results matching their search criteria. Addtional improvements can be used to accept a wider range of inputs into the filters. 
 
 ### Recommendations
 
-1. 
+1. To continue developing the webpage, it would be helpful to have a map visual to show the distribution of these sightings across the world. This would allow users to see "hotpots" for sightings and look into those areas more closely. Additionally, a map visual may lead to other conclusions about sighting patterns that aren't easily drawn from the table (i.e. a correlation between location and shape). 
+2. The webpage currently uses a static dataset, excluding most recent sightings. Continued development could be focused on building out the connection to live data of sightings via an API or other method. 
